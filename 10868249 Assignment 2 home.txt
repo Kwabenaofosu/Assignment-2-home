@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+
+	<link rel="stylesheet" href="theme.css">
+
+<title>HOME</title>
+
+</head>
+<body>
+	<ul>
+	<li><a href="edu.html">Education</a></li>
+	<li><a href="vis.html">Visitor's Form</a></li>
+	</ul>
+	
+<h1> PROFILE </h1>
+
+<img src="images/Kwabena Ofosu.jpeg" alt="black boy" width="300px"
+height="300px">
+<p> my name is Ofosu Kwabena Ebenzer. I am from Kyebi, the Easten Region.</p>
+<p> I am a sole trader. I attend University of Ghana.</p>
+<p>I study B.S.C Information Technology.</p>
+</body>
+</html>
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
